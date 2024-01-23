@@ -17,7 +17,7 @@
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
   
   <div>
-   <a href="http://www.youtube.com/@WellingtonCamargo-rb5kpbadge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href="http://www.youtube.com/@WellingtonCamargo-rb5kp" target="_blank"></a>
    <a href="https://www.instagram.com/_camargo_9/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "wellington.camargo.arruda.9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="www.linkedin.com/in/
