@@ -14,7 +14,7 @@
   
   <br>
   
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pra saber mais sobre mim, me segue nas redes abaixo!
   
   <div>
    <a href="http://www.youtube.com/@WellingtonCamargo-rb5kp" target="_blank"></a>
