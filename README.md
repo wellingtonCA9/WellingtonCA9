@@ -23,7 +23,6 @@
  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
 <br/>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
