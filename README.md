@@ -28,8 +28,6 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-Projetos e Trabalhos
-
-[Projeto 1](link para o projeto 1)
-[Projeto 2](link para o projeto 2)
-[Trabalho 1](link para o trabalho 1)
+Projetos e Trabalhos:
+[Projeto GTA] https://wellingtonca9.github.io/projeto-gta/
+[Projeto Site Teste] https://wellingtonca9.github.io/SiteTeste/
