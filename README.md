@@ -3,7 +3,7 @@
 <div>
  <a href="https://github.com/wellingtonCA9">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellingtonCA9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington_CA9&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonCA9&layout=compact&langs_count=6&theme=tokyonight"/>
  </div>
 
 <a href="https://www.youtube.com/channel/UCMTnjUb_mwnncLA_3iZAOzg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
